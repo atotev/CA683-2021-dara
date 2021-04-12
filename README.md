@@ -1,7 +1,7 @@
 # ca683-2021-dara
 CA683 Assignment
 
-# Reference
+# References
 https://www.kdnuggets.com/2019/07/building-recommender-system-part-2.html
 https://medium.com/mini-distill/effect-of-batch-size-on-training-dynamics-21c14f7a716e#:~:text=Effect%20of%20Learning%20Rate&text=Some%20works%20in%20the%20optimization,compensate%20for%20larger%20batch%20sizes.&text=the%20batch%20size.-,Training%20loss%20and%20accuracy%20when%20the%20model%20is%20trained%20using,trained%20using%20different%20learning%20rates.
 https://github.com/marlesson/recsys_autoencoders
